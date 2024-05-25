@@ -1,2 +1,2 @@
-# NLPGreenwashingFlask
-NLPGreenwashingFlask
+# NLP Greenwashing Flask Application
+We combine NLP (LLMs), Python, Flask and AWS Elastic Beanstalk to create a Web Application allowing end-users to input an article related to ESG, and then the output would provide a Sentiment Analysis Metric (-2,-1,0,1,2) to classify the article in terms of its sentiment towards ESG. This framework can be useful for ESG Analysts and Researchers who wish to incorporate this framework and improve it for their own use cases.
